@@ -1,0 +1,22 @@
+body{
+    background-color: palegoldenrod;
+}
+
+.photo-heading {
+    display: inline-block;
+    margin: 0 auto;
+
+}
+
+.croissant-image {
+    display: block;
+    margin: 0 auto;
+}
+
+.links{
+    text-align: center;
+    color: green;
+}
+.container{
+    text-align: center;
+}
